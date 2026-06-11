@@ -49,12 +49,12 @@ function setupPatternCards() {
 
 const routes = {
   recruiting: {
-    message: "Start with <span class=\"path\">selected experience</span>, then use the résumé link above. The signal: enterprise range, executive-facing scope, and systems that outlast the initial intervention.",
+    message: "TL;DR: 20 years experience, differentiated experiences, HR builder",
     spotlight: ["calib"],
     target: "#history"
   },
   "people-leader": {
-    message: "Start with <span class=\"path\">operating patterns</span>. These are the repeatable mechanisms behind the work—not a list of one-off projects.",
+    message: "Routed → <span class=\"path\">the patterns</span>. These are samples of key project deliverables.",
     spotlight: ["diag", "calib", "gtm", "agentic"],
     target: "#patterns"
   },
